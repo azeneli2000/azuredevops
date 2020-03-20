@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\bin\Debug\netcoreapp2.1\azuredevops.deps.json
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\bin\Debug\netcoreapp2.1\azuredevops.runtimeconfig.json
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\bin\Debug\netcoreapp2.1\azuredevops.runtimeconfig.dev.json
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\bin\Debug\netcoreapp2.1\azuredevops.dll
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\bin\Debug\netcoreapp2.1\azuredevops.pdb
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.AssemblyInfo.cs
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.dll
+C:\Users\user\Desktop\AzureDevOPs\azuredevops\obj\Debug\netcoreapp2.1\azuredevops.pdb
